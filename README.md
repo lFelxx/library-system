@@ -130,10 +130,6 @@ src/main/java/com/fcastro/library_system/
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## Licencia
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
 ## Contacto
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - email@ejemplo.com
-
-Link del Proyecto: [https://github.com/tu-usuario/library-system](https://github.com/tu-usuario/library-system) 
+Felix Castro - Linkedin(https://www.linkedin.com/in/felix-castro-cadena-3ba138307/)
