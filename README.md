@@ -22,7 +22,7 @@ Sistema de gestión de biblioteca desarrollado con Spring Boot que permite admin
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/library-system.git
+git clone https://github.com/lFelxx/library-system.git
 cd library-system
 ```
 
@@ -35,8 +35,8 @@ CREATE DATABASE library_system;
 2. Configurar las credenciales en `application.properties`:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/library_system
-spring.datasource.username=tu_usuario
-spring.datasource.password=tu_password
+spring.datasource.username=
+spring.datasource.password=
 ```
 
 ### 3. Compilar y Ejecutar
