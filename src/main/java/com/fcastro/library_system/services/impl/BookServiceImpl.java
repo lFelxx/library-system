@@ -60,6 +60,8 @@ public class BookServiceImpl implements BookService {
 
     @Override
     public void delete(Long id) {
+         bookRepository.findById(id)
+        .orElseThrow(() -> new  ResponseStatusException(HttpStatus.NOT_FOUND, "Libro con ID " + id + " no encontrado"));
         bookRepository.deleteById(id);
     }
 
